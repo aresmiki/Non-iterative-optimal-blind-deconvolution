@@ -3,6 +3,8 @@ This is a Matlab code library for non iterative blind deconvolution methods.It s
 
 The mixed noise signal can be obtained from the following link: https://ww2.mathworks.cn/matlabcentral/fileexchange/180804-normal-vibration-data-of-high-speed-train-sensor-installed  
 
+Some new blind deconvolution codes can be obtained at the following address: https://ww2.mathworks.cn/matlabcentral/fileexchange/my-file-exchange?s_tid=gn_mlc_fx_myfx
+
 Ref: He L , He J , Zhou Q ,et al.Non-iterative optimal blind deconvolution and its application to machine condition monitoring[J].Mechanical Systems and Signal Processing, 2026, 243(c):113715.DOI:10.1016/j.ymssp.2025.113715.  
 
 # Example 1:
